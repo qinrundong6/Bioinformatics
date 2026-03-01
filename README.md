@@ -10,6 +10,7 @@ This repo is used for class Bioinformatics in spring of 2026, including homework
    2.2 课堂听讲: 到课并听讲,记录课堂笔记. 对不理解的问题及时与老师和助教交流解决,当日事当日毕. \
    2.3 课后复习: 首先完成作业. 然后再复习上课内容. 主要关注Tutorial对应部分的内容. 在有余力的情况下,阅读学习教材和额外的课程材料. 记得预习新一周的内容. \
    2.4 其他: 准备好课本(《生物信息学》(101 计划核心教材),值得一读的新书). 多与同班同学讨论,点滴学习,把知识用到实践中去.
+
 ## 课堂笔记
 ### Lecture 1 Introduction & Getting Started
 1. Course Logistics
@@ -25,6 +26,7 @@ This repo is used for class Bioinformatics in spring of 2026, including homework
    对于不同种类序列的数据,有很多不同的分析方法.我们可以获得包括cell type cluster, Gene signatures等的信息. \
    Step 4: Modeling \
    在现在,建模预测也成为了生信中不可或缺的一部.除了传统的机器学习方法如逻辑回归,决策树,深度学习的方法也被广泛运用. 很多模型也借鉴了语言学中的分析方法,因为序列和文字非常共通. 包括HMM,SCFG,Transformer等. 有了模型的加持,我们可以在分析的基础上做出预测. \
+   **模型与算法: 模型是我们用于解释和预测现象的数学工具,而算法是实现我们需求的具体计算机方式.**
    ![](https://raw.githubusercontent.com/qinrundong6/Bioinformatics/refs/heads/main/Slides/Data%20driven.png)
    随着这一思路的完整,Data-driven的科学研究已经成为一种新兴的科学范式,想比原先的Hypothesis driven,有着不一样的风格.
    
