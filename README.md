@@ -30,7 +30,7 @@ This repo is used for class Bioinformatics in spring of 2026, including homework
    ![](https://raw.githubusercontent.com/qinrundong6/Bioinformatics/refs/heads/main/Slides/Data%20driven.png)
    随着这一思路的完整,Data-driven的科学研究已经成为一种新兴的科学范式,想比原先的Hypothesis driven,有着不一样的风格.
    
-4. Getting Started
+4. Getting Started \
    介绍了Github网站,Markdown的语法,备份自己工作的方法,具体步骤见Tutorial.
    
    
