@@ -25,6 +25,7 @@ This repo is used for class Bioinformatics in spring of 2026, including homework
    对于不同种类序列的数据,有很多不同的分析方法.我们可以获得包括cell type cluster, Gene signatures等的信息. \
    Step 4: Modeling \
    在现在,建模预测也成为了生信中不可或缺的一部.除了传统的机器学习方法如逻辑回归,决策树,深度学习的方法也被广泛运用. 很多模型也借鉴了语言学中的分析方法,因为序列和文字非常共通. 包括HMM,SCFG,Transformer等. 有了模型的加持,我们可以在分析的基础上做出预测. \
+   ![](https://raw.githubusercontent.com/qinrundong6/Bioinformatics/refs/heads/main/Slides/Data%20driven.png)
    随着这一思路的完整,Data-driven的科学研究已经成为一种新兴的科学范式,想比原先的Hypothesis driven,有着不一样的风格.
    
 4. Getting Started
