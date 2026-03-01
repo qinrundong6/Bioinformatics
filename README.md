@@ -16,6 +16,7 @@ This repo is used for class Bioinformatics in spring of 2026, including homework
    本部分介绍了课程的基本情况.包括学校bioAI相关的课程,学习网站,参考书,评分机制,学习方法等.
 2. Bioinfo Introduction I. Big Data-driven
    介绍了Bioinformatics的基本特性. \
+   ![](https://raw.githubusercontent.com/qinrundong6/Bioinformatics/refs/heads/main/Slides/4%20steps%20of%20bioinfo.png)
    Step 1: Question \
    人类的重要科学问题,重要哲学问题中,很大一部分都与生物处理外界与自身信息相关. 我们根据已有的生物医学知识提出问题,再通过生物信息学的方法扩充我们的知识. \
    Step 2: Information \
