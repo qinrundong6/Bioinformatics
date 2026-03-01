@@ -14,4 +14,19 @@ This repo is used for class Bioinformatics in spring of 2026, including homework
 ### Lecture 1 Introduction & Getting Started
 1. Course Logistics
    本部分介绍了课程的基本情况.包括学校bioAI相关的课程,学习网站,参考书,评分机制,学习方法等.
+2. Bioinfo Introduction I. Big Data-driven
+   介绍了Bioinformatics的基本特性. \
+   Step 1: Question \
+   人类的重要科学问题,重要哲学问题中,很大一部分都与生物处理外界与自身信息相关. 我们根据已有的生物医学知识提出问题,再通过生物信息学的方法扩充我们的知识. \
+   Step 2: Information \
+   利用生物的手段,我们可以获取数据.最典型的是通过测序得到的基因组.在第二代高通量测序技术的加持下,获取生物的基因组已经变得方便,廉价,我们还可以获得多祖学多个维度的数据.现在的生物信息学,获取数据已经不是难事. \
+   Step 3: Anylysis \
+   对于不同种类序列的数据,有很多不同的分析方法.我们可以获得包括cell type cluster, Gene signatures等的信息. \
+   Step 4: Modeling \
+   在现在,建模预测也成为了生信中不可或缺的一部.除了传统的机器学习方法如逻辑回归,决策树,深度学习的方法也被广泛运用. 很多模型也借鉴了语言学中的分析方法,因为序列和文字非常共通. 包括HMM,SCFG,Transformer等. 有了模型的加持,我们可以在分析的基础上做出预测. \
+   随着这一思路的完整,Data-driven的科学研究已经成为一种新兴的科学范式,想比原先的Hypothesis driven,有着不一样的风格.
+   
+4. Getting Started
+   介绍了Github网站,Markdown的语法,备份自己工作的方法,具体步骤见Tutorial.
+   
    
